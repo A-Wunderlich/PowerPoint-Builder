@@ -1,0 +1,14 @@
+C:\Users\wunde\source\repos\PPT_Creator\WPFtoPTTLibrary\bin\Debug\WPFtoPTTLibrary.dll.config
+C:\Users\wunde\source\repos\PPT_Creator\WPFtoPTTLibrary\bin\Debug\WPFtoPTTLibrary.dll
+C:\Users\wunde\source\repos\PPT_Creator\WPFtoPTTLibrary\bin\Debug\WPFtoPTTLibrary.pdb
+C:\Users\wunde\source\repos\PPT_Creator\WPFtoPTTLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wunde\source\repos\PPT_Creator\WPFtoPTTLibrary\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\wunde\source\repos\PPT_Creator\WPFtoPTTLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wunde\source\repos\PPT_Creator\WPFtoPTTLibrary\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\wunde\source\repos\PPT_Creator\WPFtoPTTLibrary\obj\Debug\WPFtoPTTLibrary.csprojAssemblyReference.cache
+C:\Users\wunde\source\repos\PPT_Creator\WPFtoPTTLibrary\obj\Debug\WPFtoPTTLibrary.csproj.CoreCompileInputs.cache
+C:\Users\wunde\source\repos\PPT_Creator\WPFtoPTTLibrary\obj\Debug\WPFtoPTTLibrary.csproj.CopyComplete
+C:\Users\wunde\source\repos\PPT_Creator\WPFtoPTTLibrary\obj\Debug\WPFtoPTTLibrary.dll
+C:\Users\wunde\source\repos\PPT_Creator\WPFtoPTTLibrary\obj\Debug\WPFtoPTTLibrary.pdb
+C:\Users\wunde\source\repos\PPT_Creator\WPFtoPTTLibrary\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\wunde\source\repos\PPT_Creator\WPFtoPTTLibrary\obj\Debug\WPFtoPTTLibrary.csproj.ResolveComReference.cache

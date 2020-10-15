@@ -1,0 +1,55 @@
+﻿<Window x:Class="PPT_Creator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PPT_Creator"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        Title="PowerPoint Builder" MaxHeight="800" MaxWidth="788.608">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center" Width="712" Margin="28,0,41,0">
+            <Label FontSize="20" Padding="10" Margin="10" Content="Title:"/>
+            <TextBox x:Name="TitleTextBox" SpellCheck.IsEnabled="True" FontSize="16" Padding="10" Margin="10" Width="534"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" Width="771" Margin="10,0,0,0">
+            <Label FontSize="20" Padding="10" Margin="10" Content="Content:"/>
+            <RichTextBox  Name="ContentTextBox" SpellCheck.IsEnabled="True" Padding="10" Margin="10" FontSize="12" Width="501" MaxWidth="500" MaxHeight="150"/>
+            <TextBlock FontWeight="DemiBold" VerticalAlignment="Center">Ctrl+B to bold text</TextBlock>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Name="GetImagesButton" Margin="15" Height="40" Width="100" Click="GetImagesButton_Click">Get Images</Button>
+        </StackPanel>
+
+        <ListBox SelectionMode="Multiple" x:Name="ImageListBox" Grid.Row="3" Margin="157,0,158,0" HorizontalContentAlignment="Center">
+            <Image Margin="5" x:Name="Image1" MaxHeight="160" MaxWidth="360"/>
+            <Image Margin="5" x:Name="Image2" MaxHeight="160" MaxWidth="360"/>
+            <Image Margin="5" x:Name="Image3" MaxHeight="160" MaxWidth="360"/>
+            <Image Margin="5" x:Name="Image4" MaxHeight="160" MaxWidth="360"/>
+            <Image Margin="5" x:Name="Image5" MaxHeight="160" MaxWidth="360"/>
+            <Image Margin="5" x:Name="Image6" MaxHeight="160" MaxWidth="360"/>
+            <Image Margin="5" x:Name="Image7" MaxHeight="160" MaxWidth="360"/>
+            <Image Margin="5" x:Name="Image8" MaxHeight="160" MaxWidth="360"/>
+        </ListBox>
+        <StackPanel Grid.Row="5" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Click="AddSlideButton_Click" x:Name="AddSlideButton" Margin="15" Height="40" Width="100">Add Slide</Button>
+            <Label VerticalAlignment="Center">Slides</Label>
+            <Label Name="slideLbl" VerticalAlignment="Center"></Label>
+            <Button Click="BuildPPTButton_Click"  Margin="15" Name="BuildPPTButton" Height="40" Width="100">Build PowerPoint</Button>
+        </StackPanel>
+
+    </Grid>
+
+
+</Window>
