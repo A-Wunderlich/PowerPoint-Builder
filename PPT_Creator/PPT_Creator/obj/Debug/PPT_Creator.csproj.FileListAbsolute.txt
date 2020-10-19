@@ -22,3 +22,27 @@ C:\Users\wunde\source\repos\PPT_Creator\PPT_Creator\bin\Debug\System.Net.Http.Fo
 C:\Users\wunde\source\repos\PPT_Creator\PPT_Creator\obj\Debug\PPT_Creator.csproj.CopyComplete
 C:\Users\wunde\source\repos\PPT_Creator\PPT_Creator\bin\Debug\Newtonsoft.Json.xml
 C:\Users\wunde\source\repos\PPT_Creator\PPT_Creator\obj\Debug\PPT_Creator.csproj.ResolveComReference.cache
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\bin\Debug\PPT_Creator.exe.config
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\bin\Debug\PPT_Creator.exe
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\bin\Debug\PPT_Creator.pdb
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\bin\Debug\WPFtoPTTLibrary.dll
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\bin\Debug\WPFtoPTTLibrary.pdb
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\bin\Debug\WPFtoPTTLibrary.dll.config
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\obj\Debug\PPT_Creator.csprojAssemblyReference.cache
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\obj\Debug\PPT_Creator.csproj.ResolveComReference.cache
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\obj\Debug\MainWindow.g.cs
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\obj\Debug\App.g.cs
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\obj\Debug\PPT_Creator_MarkupCompile.cache
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\obj\Debug\PPT_Creator_MarkupCompile.lref
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\obj\Debug\MainWindow.baml
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\obj\Debug\PPT_Creator.g.resources
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\obj\Debug\PPT_Creator.Properties.Resources.resources
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\obj\Debug\PPT_Creator.csproj.GenerateResource.cache
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\obj\Debug\PPT_Creator.csproj.CoreCompileInputs.cache
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\obj\Debug\PPT_Creator.csproj.CopyComplete
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\obj\Debug\PPT_Creator.exe
+C:\Users\wunde\OneDrive\Desktop\PowerPoint Builder\PowerPoint-Builder\PPT_Creator\PPT_Creator\obj\Debug\PPT_Creator.pdb

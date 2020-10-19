@@ -13,7 +13,7 @@ namespace WPFtoPTTLibrary
         //returns ImageModels to be used for images scources for slides
         public static async Task<ImagesModel> LoadImages(string searchTerms)
         {
-            string url = $"https://www.googleapis.com/customsearch/v1?q={ searchTerms }&num=8&cx={ConfigurationManager.AppSettings["EngineID"]}&searchType=image&key={ConfigurationManager.AppSettings["ApiKey"]}&alt=json";
+            string url = $"https://www.googleapis.com/customsearch/v1?q={ searchTerms }&num=8&cx={ConfigurationManager.AppSettings["EngineID"]}&searchType=image&fileType=jpeg&start=1&key={ConfigurationManager.AppSettings["ApiKey"]}&alt=json";
 
             using (HttpResponseMessage response = await ApiHelper.ApiClient.GetAsync(url))
             {

@@ -53,7 +53,15 @@ namespace PPT_Creator
                 content.Text = slideComponents[i].Content;
                 for (int j = 0; j < slideComponents[i].Images.Count(); j++)
                 {
-                    slide.Shapes.AddPicture(slideComponents[i].Images[j], Microsoft.Office.Core.MsoTriState.msoFalse, Microsoft.Office.Core.MsoTriState.msoTrue, 500, 25 + (j * 100), 160, 90);
+                    try
+                    {
+                        slide.Shapes.AddPicture(slideComponents[i].Images[j], Microsoft.Office.Core.MsoTriState.msoTrue, Microsoft.Office.Core.MsoTriState.msoTrue, 500, 25 + (j * 100), 160, 90);                     
+                    }
+                    catch (ArgumentException)
+                    {
+                        MessageBox.Show($"Image {j+1} could not be added on slide {i+1}");
+                    }
+                    
                 }
             }
             slideComponents.Clear();
@@ -136,6 +144,10 @@ namespace PPT_Creator
             ContentTextBox.Document.Blocks.Clear();
             slideCount++;
             slideLbl.Content = slideCount.ToString();
+            for (int i = 0; i < ImageAreas.Count(); i++)
+            {
+                ImageAreas[i].Source = null;
+            }
             
         }
 
